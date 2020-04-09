@@ -6,7 +6,7 @@ let user = {
     location: 'Uzbekistan',
     //define as list
     blogs: [
-        {title:'Hello my name is Azizbek', likes:30},
+        {title:'Hello my name is CodinNewBie', likes:30},
         {title:'Hello my is big han yours', likes:40}
     ],
     //define a function into objects in js
