@@ -7,7 +7,7 @@ for(let i=1 ; i<5; i++){
 console.log('Loop finished')
 //Exercise_Simple For loop--------------------------------------------------------
 
-const names= ['shoun', 'mario', 'azizbek']
+const names= ['shoun', 'mario', 'CodingNewBie']
 i = 0 
 
 for (let i = 0; i < names.length; i++){
@@ -24,7 +24,7 @@ while(i<5){
     i++
 }
 //Exercise List Do/While----------------------------------------------------------
-const userNames = ['Azizbek', 'Alijon', 'Murodjon', 'Abubakr']
+const userNames = ['CodingNewBie', 'Google', 'Youtube', 'Chrome']
 let i = 3
 
 do{
@@ -37,7 +37,7 @@ if(userAge === 20){
     console.log('Welcome')
 }
 //Exercise_list_lenth-------------------------------------------------------------
-const userNames = ['Azizbek', 'Alijon', 'Murodjon', 'Abubakr']
+const userNames = ['CodingNewBie', 'Google', 'Youtube', 'Chrome']
 
 if(userNames.length > 3){
     console.log('They are a lot.')
